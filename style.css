@@ -39,7 +39,7 @@ html,body{
 }
 
 #image{
-    background-image: url(/imagenes/Background\ Comanda.jpg);
+    background-image: url(imagenes/BackgroundComanda.jpg);
     background-size: cover;
     background-size: 113%;
     background-position-x: 50%;
